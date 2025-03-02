@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Deployed Link - <https://67c4a3e6b7f41fb7bc3ae780--json-driven-table.netlify.app/>
+
 First, run the development server:
 
 ```bash
